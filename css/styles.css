@@ -49,7 +49,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.address-item:hover,
+.address-item:hover {
+  color: #404bbf;
+}
 .address-item:focus {
   color: #404bbf;
 }
@@ -91,6 +93,7 @@ a {
 .about-item {
 }
 .about-advantages {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -106,6 +109,7 @@ a {
   background-color: #f4f4fd;
 }
 .our-team {
+  color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -113,11 +117,11 @@ a {
   letter-spacing: 0.02em;
 }
 .our-list {
-  background-color: #ffffff;
 }
 .our-item {
+  background-color: #ffffff;
 }
-.our-team {
+.our-team-employee {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -130,7 +134,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.our-portfolio-section {
+.our-portfolio {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
