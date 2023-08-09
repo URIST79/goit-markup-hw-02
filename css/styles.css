@@ -12,6 +12,7 @@ a {
   text-decoration: none;
   color: currentColor;
 }
+/* Haeder section */
 .header {
 }
 .logo {
@@ -57,6 +58,7 @@ a {
 .address-item:focus {
   color: #404bbf;
 }
+/* Hero section */
 .hero-section {
   background-color: #2e2f42;
 }
@@ -83,6 +85,7 @@ a {
   background: #404bbf;
 }
 
+/* About us */
 .section {
   color: #2e2f42;
   font-size: 20px;
@@ -107,6 +110,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+/* Our team */
 .our-team-sectoin {
   background-color: #f4f4fd;
 }
@@ -136,6 +140,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+/* Our Portfolio */
 .our-portfolio {
   font-size: 36px;
   line-height: 1.11;
@@ -160,6 +165,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+/* Footer section */
 .footer {
   background-color: #2e2f42;
 }
