@@ -1,0 +1,149 @@
+/* common styles */
+body {
+  font-family: Roboto, Raleway;
+  color: #2e2f42;
+}
+/* reset */
+.ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+.header {
+}
+.header-logo {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+}
+.studio-header {
+  color: #2e2f42;
+}
+.header-list:hover {
+  color: 404BBF;
+}
+.header-item {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.header-item:hover,
+.header-item:focus {
+  color: 404BBF;
+}
+.address {
+  font-style: none;
+}
+.address-item {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.address-item:hover,
+.address-item:focus {
+  color: #404bbf;
+}
+.hero-section {
+  background-color: #2e2f42;
+}
+.hero-text {
+  color: #fff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+}
+.hero-btn {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  border-radius: 4px;
+  background: #404bbf;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.section {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+.about-list {
+}
+.about-item {
+}
+.about-advantages {
+}
+.about-us {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.our-list {
+}
+.our-item {
+}
+.our-team {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+.our-team-profession {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-work {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+.portfolio-p {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.studio-footer {
+  color: #f4f4fd;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+}
+.footer-p {
+  color: #f4f4fd;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
