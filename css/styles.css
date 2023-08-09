@@ -37,7 +37,7 @@ a {
   letter-spacing: 0.32px;
 }
 .header-item:hover {
-  color: 404BBF;
+  color: #404bbf;
 }
 .header-item:focus {
   color: #404bbf;
