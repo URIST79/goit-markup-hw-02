@@ -36,9 +36,11 @@ a {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.header-item:hover,
-.header-item:focus {
+.header-item:hover {
   color: 404BBF;
+}
+.header-item:focus {
+  color: #404bbf;
 }
 .address {
   font-style: normal;
